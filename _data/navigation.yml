@@ -1,6 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+    - title: "HTML&CSS"
+    url: https://seenamon.github.io/html-css/
+    - title: "JavaScript"
+    url: https://seenamon.github.io/javascript/
+    - title: "Python"
+    url: https://seenamon.github.io/python
+    
+  # - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
